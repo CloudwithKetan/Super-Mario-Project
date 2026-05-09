@@ -299,7 +299,7 @@ Provide:
 # 📂 Step 8 — Clone GitHub Repository
 
 ```bash
-git clone https://github.com/mukundDeo9325/Super-Mario.git
+git clone https://github.com/CloudwithKetan/Super-Mario-Project.git
 ```
 
 Navigate to project:
@@ -532,7 +532,7 @@ images/final-output.png
 
 # 👨‍💻 Author
 
-### Mukund Deo
+### Ketan Dhadve
 
 DevOps Engineer | Kubernetes Enthusiast | Cloud Engineer
 
